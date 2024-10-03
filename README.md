@@ -4,12 +4,12 @@ This work is a news stream categorization system with features that employs mach
 
 # Installation
 To manage this project, you should have Python or any other compatible later on and the following libraries. You can install the required libraries using pip:
-## pip install pandas numpy matplotlib seaborn nltk wordcloud scikit-learn tensorflow
+pip install pandas numpy matplotlib seaborn nltk wordcloud scikit-learn tensorflow
 Make sure to also download the necessary NLTK data files by running:
-## import nltk
-## nltk.download('stopwords')
-## nltk.download('wordnet')
-## nltk.download('punkt')
+import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt')
 
 
 ## Data Exploration
